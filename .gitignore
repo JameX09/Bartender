@@ -1,0 +1,23 @@
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.slnx
+*.pidb
+*.booproj
+.vs/
+.idea/
+
+# build vystupy
+bin/
+build/
+release/
+
+# editor
+.vscode/
+*.swp
